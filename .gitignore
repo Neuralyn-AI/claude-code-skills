@@ -1,0 +1,12 @@
+resource-data
+.playwright-mcp
+.claude
+CLAUDE.md
+drafts
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
